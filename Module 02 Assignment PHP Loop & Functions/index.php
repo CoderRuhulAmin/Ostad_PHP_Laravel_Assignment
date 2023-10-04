@@ -22,10 +22,10 @@
 
                     <div class="card-body">
                         <ul>
-                            <li><a href="http://localhost:8000/even_loop.php" target="_blank">Task 1: PHP Looping with Increment using a Function</a></li>
-                            <li><a href="http://localhost:8000/print_skip.php" target="_blank">Task 2: PHP Loop Skip Printing Multiples of 5</a></li>
-                            <li><a href="http://localhost:8000/break_condition.php" target="_blank">Task 3: PHP Break on Condition</a></li>
-                            <li><a href="http://localhost:8000/fibonacci_function.php" target="_blank">Task 4: PHP Fibonacci Series printing using a Function</a></li>
+                            <li><a href="http://localhost:3000/Module%2002%20Assignment%20PHP%20Loop%20&%20Functions/task_01.php" target="_blank">Task 1: PHP Looping with Increment using a Function</a></li>
+                            <li><a href="http://localhost:3000/Module%2002%20Assignment%20PHP%20Loop%20&%20Functions/task_02.php" target="_blank">Task 2: PHP Loop Skip Printing Multiples of 5</a></li>
+                            <li><a href="http://localhost:3000/Module%2002%20Assignment%20PHP%20Loop%20&%20Functions/task_03.php" target="_blank">Task 3: PHP Break on Condition</a></li>
+                            <li><a href="http://localhost:3000/Module%2002%20Assignment%20PHP%20Loop%20&%20Functions/task_04.php" target="_blank">Task 4: PHP Fibonacci Series printing using a Function</a></li>
                         </ul>
                     </div>
 

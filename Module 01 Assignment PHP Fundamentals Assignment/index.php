@@ -22,13 +22,13 @@
 
                     <div class="card-body">
                         <ul>
-                            <li><a href="http://localhost:8000/personal_info.php" target="_blank">Task 1: Personal Information Page</a></li>
-                            <li><a href="http://localhost:8000/temperature_converter.php" target="_blank">Task 2: Temperature Converter</a></li>
-                            <li><a href="http://localhost:8000/grade_calculator.php" target="_blank">Task 3: Grade Calculator</a></li>
-                            <li><a href="http://localhost:8000/even_odd_checker.php" target="_blank">Task 4: Even or Odd Checker</a></li>
-                            <li><a href="http://localhost:8000/weather_report.php" target="_blank">Task 5: Weather Report</a></li>
-                            <li><a href="http://localhost:8000/comparison_tool.php" target="_blank">Task 6: Comparison Tool</a></li>
-                            <li><a href="http://localhost:8000/simple_calculator.php" target="_blank">Task 7: Simple Calculator</a></li>
+                            <li><a href="http://localhost:3000/Module%2001%20Assignment%20PHP%20Fundamentals%20Assignment/personal_info.php" target="_blank">Task 1: Personal Information Page</a></li>
+                            <li><a href="http://localhost:3000/Module%2001%20Assignment%20PHP%20Fundamentals%20Assignment/temperature_converter.php" target="_blank">Task 2: Temperature Converter</a></li>
+                            <li><a href="http://localhost:3000/Module%2001%20Assignment%20PHP%20Fundamentals%20Assignment/grade_calculator.php" target="_blank">Task 3: Grade Calculator</a></li>
+                            <li><a href="http://localhost:3000/Module%2001%20Assignment%20PHP%20Fundamentals%20Assignment/even_odd_checker.php" target="_blank">Task 4: Even or Odd Checker</a></li>
+                            <li><a href="http://localhost:3000/Module%2001%20Assignment%20PHP%20Fundamentals%20Assignment/weather_report.php" target="_blank">Task 5: Weather Report</a></li>
+                            <li><a href="http://localhost:3000/Module%2001%20Assignment%20PHP%20Fundamentals%20Assignment/comparison_tool.php" target="_blank">Task 6: Comparison Tool</a></li>
+                            <li><a href="http://localhost:3000/Module%2001%20Assignment%20PHP%20Fundamentals%20Assignment/simple_calculator.php" target="_blank">Task 7: Simple Calculator</a></li>
                         </ul>
                     </div>
 
