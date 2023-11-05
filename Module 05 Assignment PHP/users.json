@@ -1,0 +1,32 @@
+{
+    "admin@test.com": {
+        "username": "Admin",
+        "password": "1230",
+        "role": "Admin"
+    },
+    "ruhul@test.com": {
+        "username": "Ruhul Amin",
+        "password": "1230",
+        "role": "Admin"
+    },
+    "zunaid@test.com": {
+        "username": "Zunaid",
+        "password": "1240",
+        "role": "Viewer"
+    },
+    "sakib@test.com": {
+        "username": "Sakib",
+        "password": "1250",
+        "role": "User"
+    },
+    "ripon@test.com": {
+        "username": "Ripon",
+        "password": "1260",
+        "role": "User"
+    },
+    "rakib@test.com": {
+        "username": "Rakib",
+        "password": "1270",
+        "role": "User"
+    }
+}
